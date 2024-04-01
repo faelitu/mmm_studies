@@ -1,4 +1,5 @@
 tutorial 1:
     1. por que escalar os dados?
+        técnicas bayesianas funcionam bem com dados em pequena escala
     2. para que serve number_warmup, number_samples?
     3. por que olhar se o r_hat é menor que 1.1? isso é um checkpoint em modelos bayesianos, mas por que?
